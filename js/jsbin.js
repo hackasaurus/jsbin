@@ -35,4 +35,5 @@ window.jsbin.settings = JSON.parse(localStorage.getItem('settings') || '{ "show"
 //= require "render/render"
 //= require "chrome/beta"
 //= require "chrome/app"
+//= require "hackasaurus/hackasaurus"
 })(this, document);

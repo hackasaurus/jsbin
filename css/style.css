@@ -1281,3 +1281,12 @@ span.CodeMirror-selected {
 .CodeMirror-lines pre.CodeMirror-cursor {
 /*  white-space: pre;*/
 }
+
+/* Hackasaurus changes */
+.code.html label, .code.html #library, div#control .help {
+  display: none;
+}
+
+span#panelsvisible {
+  display: none;
+}
