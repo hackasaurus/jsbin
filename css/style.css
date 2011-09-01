@@ -1305,3 +1305,8 @@ div#temporary-caveat {
   padding: 5px;
   z-index: 50000;
 }
+
+div.control >  div.buttons > a.tab.button.source,
+div.control >  div.buttons > a.tab.button.preview {
+  display: none;
+}
