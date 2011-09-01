@@ -37,6 +37,9 @@ if ($code_id) {
 <!--[if lt IE 8 ]><body class="source ie ie7"><![endif]--> 
 <!--[if gte IE 8 ]><body class="source ie"><![endif]--> 
 <!--[if !IE]><!--><body class="source"><!--<![endif]-->  
+<div id="temporary-caveat">
+  This website is currently an experiment. Any data you store here can be erased at any time!
+</div>
 <div id="control">
   <div class="control">
     <div class="buttons">

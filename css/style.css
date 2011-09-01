@@ -1294,3 +1294,14 @@ span#panelsvisible {
 a#startingpoint {
   visibility: hidden;
 }
+
+div#temporary-caveat {
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  background-color: yellow;
+  border-top: 1px solid black;
+  padding: 5px;
+  z-index: 50000;
+}
